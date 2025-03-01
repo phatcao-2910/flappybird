@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "g++ -o flappy main.cpp Game.cpp Bird.cpp Pipe.cpp -lmingw32 -lSDL2main -lSDL2"
+
+    },
+}
